@@ -12,7 +12,7 @@ public class FilesEx {
                 System.out.println("Failed to create the file");
             }
         } catch (IOException e) {
-            System.out.println(e);
+            System.out.println(e.getMessage());
         }
 
     }
