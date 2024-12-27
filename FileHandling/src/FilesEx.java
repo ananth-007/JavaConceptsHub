@@ -10,6 +10,8 @@ public class FilesEx {
             }else{
                 System.out.println("Failed to create the file");
             }
+        } catch (IOException e) {
+            System.out.println(e);
         }
 
     }
