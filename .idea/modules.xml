@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Collections/Collections.iml" filepath="$PROJECT_DIR$/Collections/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/CoreJava/CoreJava.iml" filepath="$PROJECT_DIR$/CoreJava/CoreJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/FileHandling/FileHandling.iml" filepath="$PROJECT_DIR$/FileHandling/FileHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java8/Java8.iml" filepath="$PROJECT_DIR$/Java8/Java8.iml" />
       <module fileurl="file://$PROJECT_DIR$/TataStriveProject.iml" filepath="$PROJECT_DIR$/TataStriveProject.iml" />
     </modules>
   </component>

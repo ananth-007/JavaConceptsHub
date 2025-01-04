@@ -1,30 +1,22 @@
-interface L
-{
-    default void display()
-    {
+interface L {
+    default void display() {
         System.out.println("Interface L");
     }
 }
-interface M extends L
-{
-    default void display()
-    {
+interface M extends L {
+    default void display() {
         System.out.println("Interface M");
     }
 }
-interface N extends L
-{
-    default void display()
-    {
+interface N extends L {
+    default void display() {
         System.out.println("Interface N");
     }
 }
 
-class O implements M,N
-{
+class O implements M,N{
     @Override
-    public void display()
-    {
+    public void display() {
         M.super.display();
         N.super.display();
     }
